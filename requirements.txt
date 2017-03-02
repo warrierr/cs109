@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+matplotlib
+sklearn
+requests
+bs4
+pyquery
+seaborn
+jupyter
